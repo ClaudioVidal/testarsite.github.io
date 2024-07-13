@@ -710,17 +710,27 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-uiqCUVuqc0 {
-  background-image: url("../../../assets/images/imagem-para-site-copy-5.jpeg");
+.cid-uiqSa7qKyN {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/ilustra-titulo-03b.jpg");
 }
-.cid-uiqCUVuqc0 H1 {
-  text-align: left;
-  color: #232323;
+.cid-uiqSa7qKyN P {
+  color: #767676;
 }
-.cid-uiqCUVuqc0 .mbr-text,
-.cid-uiqCUVuqc0 .mbr-section-btn {
-  text-align: left;
-  color: #cc2952;
+.cid-uiqQRv6jhB {
+  background-image: url("../../../assets/images/ilustra-bege.jpeg");
+}
+.cid-uiqQRv6jhB h1 {
+  color: #616161;
+}
+.cid-uiqQRv6jhB h2,
+.cid-uiqQRv6jhB h3,
+.cid-uiqQRv6jhB p {
+  color: #767676;
+}
+.cid-uiqQRv6jhB .mbr-section-subtitle {
+  font-style: italic;
 }
 .cid-uiqEtCk9dl {
   padding-top: 45px;
